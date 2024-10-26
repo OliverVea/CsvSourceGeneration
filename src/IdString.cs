@@ -1,4 +1,4 @@
-﻿namespace CodeGeneration;
+﻿namespace CsvSourceGeneration;
 
 public class IdString(string value)
 {

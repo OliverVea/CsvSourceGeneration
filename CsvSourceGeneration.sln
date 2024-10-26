@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "repo", "repo", "{194CAA04-6
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BE2DDE7E-CFF5-403E-8A2B-8F44803AEB3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGeneration", "src\CodeGeneration.csproj", "{3C8D219F-3AE4-44F4-9BDA-CD48B4E50251}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvSourceGeneration", "src\CsvSourceGeneration.csproj", "{3C8D219F-3AE4-44F4-9BDA-CD48B4E50251}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{F52DBCF2-491A-4371-B554-0F77B1DB7FD6}"
 EndProject

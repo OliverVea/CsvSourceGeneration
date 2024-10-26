@@ -18,7 +18,7 @@
     </ItemGroup>
     
     <ItemGroup>
-        <ProjectReference Include="..\src\CodeGeneration.csproj" OutputItemType="Analyzer" />
+        <ProjectReference Include="..\src\CsvSourceGeneration.csproj" OutputItemType="Analyzer" />
     </ItemGroup>
 
     <ItemGroup>

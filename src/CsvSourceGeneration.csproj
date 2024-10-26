@@ -9,7 +9,6 @@
         <RepositoryUrl>https://github.com/OliverVea/CsvSourceGeneration</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-        <Version>0.1.0</Version>
     </PropertyGroup>
     
     <PropertyGroup>

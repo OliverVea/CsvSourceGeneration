@@ -1,6 +1,6 @@
 using System.Diagnostics;
 
-namespace CodeGeneration;
+namespace CsvSourceGeneration;
 
 [DebuggerDisplay("{Name}: {Type}")]
 public record CsvProperty(CsvType Type, string Name)

@@ -2,7 +2,7 @@
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.Text;
 
-namespace CodeGeneration;
+namespace CsvSourceGeneration;
 
 [Generator]
 public class CsvGenerator : ISourceGenerator

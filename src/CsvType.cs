@@ -1,4 +1,4 @@
-﻿namespace CodeGeneration;
+﻿namespace CsvSourceGeneration;
 
 public enum CsvType
 {

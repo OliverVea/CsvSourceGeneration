@@ -1,6 +1,6 @@
 using System.Diagnostics;
 
-namespace CodeGeneration;
+namespace CsvSourceGeneration;
 
 [DebuggerDisplay("{Properties.Length} properties, {Rows.Length} rows")]
 public class CsvDocument

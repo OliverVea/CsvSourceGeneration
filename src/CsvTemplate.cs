@@ -7,7 +7,7 @@
 //     the code is regenerated.
 // </auto-generated>
 // ------------------------------------------------------------------------------
-namespace CodeGeneration
+namespace CsvSourceGeneration
 {
     using System;
     
@@ -32,7 +32,7 @@ namespace CodeGeneration
             
             #line default
             #line hidden
-            this.Write("'. Do not edit it directly.\r\n*/\r\n#nullable enable\r\n\r\nusing CodeGeneration;\r\n\r\nnamespace CsvData;\r\n\r\nusing System.Collections.Generic;\r\n\r\npublic static class ");
+            this.Write("'. Do not edit it directly.\r\n*/\r\n#nullable enable\r\n\r\nusing CsvSourceGeneration;\r\n\r\nnamespace CsvData;\r\n\r\nusing System.Collections.Generic;\r\n\r\npublic static class ");
             
             #line 13 "D:\RiderProjects\CsvSourceGeneration\src\CsvTemplate.tt"
             this.Write(this.ToStringHelper.ToStringWithCulture(StaticClassName));

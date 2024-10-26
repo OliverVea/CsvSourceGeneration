@@ -1,6 +1,6 @@
 using System.Diagnostics;
 
-namespace CodeGeneration;
+namespace CsvSourceGeneration;
 
 [DebuggerDisplay("{FieldName}: {FormattedValue}")]
 public record CsvField(CsvType FieldType, string FieldName, string Value)

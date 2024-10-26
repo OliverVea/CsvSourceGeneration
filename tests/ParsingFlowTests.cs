@@ -1,4 +1,5 @@
-using CodeGeneration;
+using CsvSourceGeneration;
+using CsvTemplate = CsvSourceGeneration.CsvTemplate;
 
 namespace Tests;
 
@@ -19,7 +20,7 @@ public class ParsingFlowTests
         */
         #nullable enable
         
-        using CodeGeneration;
+        using CsvSourceGeneration;
         
         namespace CsvData;
         

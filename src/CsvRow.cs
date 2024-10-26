@@ -1,6 +1,6 @@
 using System.Diagnostics;
 
-namespace CodeGeneration;
+namespace CsvSourceGeneration;
 
 [DebuggerDisplay("{RowName}: {Fields.Length} fields")]
 public record CsvRow(string RowName, CsvField[] Fields)
