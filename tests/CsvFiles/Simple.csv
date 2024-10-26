@@ -1,0 +1,4 @@
+Spell,Damage,Range,Cost
+Fireball,15,5.0,15
+Frostbolt,12,5.0,20
+HeavyStrike,20,0.7,5

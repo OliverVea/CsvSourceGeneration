@@ -1,0 +1,4 @@
+Ability,Id,Cooldown,Damage,Range,AoERange,AoEDamage
+Melee,melee,1.0s,5.0,1.0,0.0,0.0
+Ranged,ranged,1.5s,5.0,10.0,0,0
+Fireball,fireball,3s,100.0,10.0,3.0,5.0
