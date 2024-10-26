@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{F52DBCF2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "tests\Tests.csproj", "{B7A4C0AB-D336-4704-869C-69DF4BC4E3D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetTests", "NugetTests\NugetTests.csproj", "{D1FD9373-2039-423D-BC88-E08AB8A5E2D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{3C8D219F-3AE4-44F4-9BDA-CD48B4E50251} = {BE2DDE7E-CFF5-403E-8A2B-8F44803AEB3A}
 		{B7A4C0AB-D336-4704-869C-69DF4BC4E3D1} = {F52DBCF2-491A-4371-B554-0F77B1DB7FD6}
+		{D1FD9373-2039-423D-BC88-E08AB8A5E2D3} = {F52DBCF2-491A-4371-B554-0F77B1DB7FD6}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3C8D219F-3AE4-44F4-9BDA-CD48B4E50251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -33,5 +36,9 @@ Global
 		{B7A4C0AB-D336-4704-869C-69DF4BC4E3D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7A4C0AB-D336-4704-869C-69DF4BC4E3D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7A4C0AB-D336-4704-869C-69DF4BC4E3D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1FD9373-2039-423D-BC88-E08AB8A5E2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FD9373-2039-423D-BC88-E08AB8A5E2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FD9373-2039-423D-BC88-E08AB8A5E2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FD9373-2039-423D-BC88-E08AB8A5E2D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
