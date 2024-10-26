@@ -1,5 +1,18 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
+        <Title>Static CSV Source Generator</Title>
+        <Authors>Oliver Vea</Authors>
+        <Description>Generates static, type safe and performant C# classes from CSV data</Description>
+        <Copyright>Oliver Vea</Copyright>
+        <PackageProjectUrl>https://github.com/OliverVea/CsvSourceGeneration</PackageProjectUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/OliverVea/CsvSourceGeneration</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+        <Version>0.1.0</Version>
+    </PropertyGroup>
+    
+    <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
         <LangVersion>latest</LangVersion>
         <EnforceExtendedAnalyzerRules>true</EnforceExtendedAnalyzerRules>
