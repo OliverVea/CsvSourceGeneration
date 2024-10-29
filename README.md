@@ -1,4 +1,4 @@
-# Static CSV Source Generator
+# Static CSV Source Generator [![NuGet](https://img.shields.io/nuget/v/CsvSourceGeneration?logo=nuget)](https://www.nuget.org/packages/CsvSourceGeneration) [![GitHub](https://img.shields.io/github/license/OliverVea/CsvSourceGeneration)](licence.md)
 
 This package allows for generating static C# classes allowing for easy, type safe and performant row-wise access to the data.
 
