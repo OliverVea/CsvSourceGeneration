@@ -9,6 +9,7 @@
         <RepositoryUrl>https://github.com/OliverVea/CsvSourceGeneration</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
     
     <ItemGroup>
