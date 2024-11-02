@@ -28,7 +28,7 @@ First,Hello World!
 When the project is built next, the data contained in the csv is available through a static class with the same name as the csv file:
 
 ```csharp
-Console.WriteLine($"Some data from the csv file: {MyFile.First.Value}");
+Console.WriteLine($"Some data from the csv file: {MyFile.First.Message}");
 // Some data from the csv file: Hello World!
 ```
 
