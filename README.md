@@ -11,4 +11,3 @@ Add a package reference to your project:
         <PackageReference Include="CsvSourceGeneration" Version="0.0.1"/>
     </ItemGroup>
 ```
-

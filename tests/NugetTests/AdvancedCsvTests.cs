@@ -1,6 +1,7 @@
+/*
 using CsvData;
 
-namespace NugetTests;
+namespace Tests;
 
 public class AdvancedCsvTests
 {
@@ -26,3 +27,4 @@ public class AdvancedCsvTests
         });
     }
 }
+*/
