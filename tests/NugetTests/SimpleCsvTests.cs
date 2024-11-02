@@ -1,4 +1,3 @@
-/*
 using CsvData;
 
 namespace Tests;
@@ -23,4 +22,3 @@ public class SimpleCsvTests
         });
     }
 }
-*/
