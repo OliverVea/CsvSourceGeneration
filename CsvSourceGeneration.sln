@@ -13,9 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvSourceGeneration", "src\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{F52DBCF2-491A-4371-B554-0F77B1DB7FD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "tests\Tests.csproj", "{B7A4C0AB-D336-4704-869C-69DF4BC4E3D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "tests\Tests\Tests.csproj", "{B7A4C0AB-D336-4704-869C-69DF4BC4E3D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetTests", "NugetTests\NugetTests.csproj", "{D1FD9373-2039-423D-BC88-E08AB8A5E2D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetTests", "tests\NugetTests\NugetTests.csproj", "{D1FD9373-2039-423D-BC88-E08AB8A5E2D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
